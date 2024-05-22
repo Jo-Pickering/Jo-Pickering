@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hello there!
 
-<!--
-**Jo-Pickering/Jo-Pickering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **`Full-Stack Software Developer`**
+
+#### 🧰 Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
+
+#### 🏳️‍🌈 About Me
+I'm an editor turned self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
+
+#### 📫 Get in touch:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susannah-bennett-a16627181/)
+
+
 
 Here are some ideas to get you started:
 
