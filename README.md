@@ -1,5 +1,7 @@
 ## Hello there!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo-r-pickering/)
+
 <!-- **`Full-Stack Software Developer`**
 
 #### 🧰 Languages and Tools 
@@ -10,7 +12,7 @@ I'm an editor turned self-taught developer currently on the TechNative Digital F
 
 #### 📫 Get in touch:
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susannah-bennett-a16627181/)
+
 
 
 
