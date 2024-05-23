@@ -8,7 +8,7 @@ If you have any questions about me, what I do or if you'd be interested in worki
 
 Thanks for reading and may the code be with you 😉
 
-### Currently Learning
+### Current Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,python)](https://skillicons.dev) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo-r-pickering/)
